@@ -25,4 +25,4 @@ function doWhileLoop() {
  
 do {
   console.log("I run once regardless");
-} while (doWhileLoop() < 10);
+} while (doWhileLoop() < 20);
